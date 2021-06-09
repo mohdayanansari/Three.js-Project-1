@@ -6,3 +6,5 @@
 <br>
 <h3 align="center">Three.js App⬇</h3>
 <h1 align="center"><a href="https://objectorienteddev07.github.io/FinalThree.js-Pr-1/">Three.js App</a></h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=objectorienteddev07&repo=Three.js-Project-1)](https://github.com/anuraghazra/github-readme-stats)
